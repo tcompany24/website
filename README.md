@@ -1,10 +1,10 @@
-Coming Soon
+TCompany - Coming Soon Page
 ===========
-Coming Soon is a simplistic, animated and responsive "coming soon" page.
+Welcome to TCompany! We're currently working hard behind the scenes to bring you something amazing. Our website is coming soon, and we can't wait to share it with you.
 
-- HTML and CSS
-- Multi-Browser Support (Up to Date Major Browsers)
-- Responsive Design
 
-[Demo](http://yc.github.io/coming-soon/)
-<img src="index.svg" width="960" height="540" />
+- Responsive Design: Optimized for all devices, including mobile phones and tablets.
+- Simple and Clean Layout: A modern, minimalistic "Coming Soon" page to give you a preview of what's to come.
+- Company Branding: The page features TCompany's logo and brand colors to keep you informed.
+
+
